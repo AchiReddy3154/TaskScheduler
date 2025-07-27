@@ -1,0 +1,8 @@
+[
+  {
+    "title": "Welcome to Smart Task Scheduler!",
+    "priority": 5,
+    "deadline": "2025-12-31 23:59:00",
+    "completed": false
+  }
+]
