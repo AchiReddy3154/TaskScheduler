@@ -31,6 +31,15 @@ A modern Java Swing application for managing tasks with deadline alerts, system 
 - **Status Tracking**: Real-time status updates and task counts
 - **Data Validation**: Input validation for dates, priorities, and required fields
 
+### Screenshots
+
+<img width="1101" height="818" alt="image" src="https://github.com/user-attachments/assets/67b0bf32-a983-4fa1-9c09-06413185689d" />
+<img width="1104" height="857" alt="image" src="https://github.com/user-attachments/assets/438fa713-286e-40a0-bff0-fa278b64ae4b" />
+<img width="433" height="125" alt="image" src="https://github.com/user-attachments/assets/3b230119-a84c-4faf-8798-f5dd9e59acad" />
+<img width="472" height="152" alt="image" src="https://github.com/user-attachments/assets/5d641a1a-78b6-432d-ac03-73f27d8cdb01" />
+
+
+
 ## Installation & Usage
 
 ### Prerequisites
